@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://jusdots.com/assets/jusplayer-banner.png" alt="JusPlayer by JusDots" width="300" style="max-width:100%; height:auto;"/>
-</p>
-
 # JusPlayer
 
-![The app screenshot](./images/browse_home.png)
+![The app screenshot]([./images/browse_home.png](https://media.discordapp.net/attachments/1387711977794572303/1486687886613938476/image.png?ex=69c6697d&is=69c517fd&hm=dc44a4bb03c246fd7fb393c998e7a5c6b7c73270ed834eb748d44e085ed5c337&=&format=webp&quality=lossless&width=1323&height=747))
 
-**JusPlayer** is a free and open-source advanced media player for Android TVs and TV boxes, built by [JusDots](https://jusdots.com). It allows you to play content from various public sources — completely ad-free, with no compromises.
+![The app screenshot]([[./images/browse_home.png](https://media.discordapp.net/attachments/1387711977794572303/1486687886613938476/image.png?ex=69c6697d&is=69c517fd&hm=dc44a4bb03c246fd7fb393c998e7a5c6b7c73270ed834eb748d44e085ed5c337&=&format=webp&quality=lossless&width=1323&height=747)](https://media.discordapp.net/attachments/1387711977794572303/1486687990691397672/image.png?ex=69c66996&is=69c51816&hm=3090c3cd16fa23da9013b8a9b1a4013ad6e45240a69c97ff6c486a39e676e806&=&format=webp&quality=lossless&width=943&height=531))
+
+**JusPlayer** is a free and open-source advanced media player for Android TVs and TV boxes, built by [JusDots](https://shubh72010.github.io/JusDots-Devs)). It allows you to play content from various public sources — completely ad-free, with no compromises.
 
 ### ✅ Features
 - No ads
